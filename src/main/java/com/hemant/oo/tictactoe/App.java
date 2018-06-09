@@ -1,4 +1,4 @@
-package com.hemant.tictactoe;
+package com.hemant.oo.tictactoe;
 
 /**
  * Hello world!
